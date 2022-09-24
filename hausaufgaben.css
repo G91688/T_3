@@ -1,0 +1,56 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+	width: 800px;
+	min-height: 600px;
+	background: white ;
+	float: left;
+}
+.header{
+	width: 800px;
+	min-height: 100px;
+	background: yellowgreen;
+	float: left;
+}
+.center{
+	width: 800px;
+	min-height: 480px;
+	background: white;
+	float: left;
+	margin: 10px 0px;
+}
+.footer{
+	width: 800px;
+	min-height: 100px;
+	background: yellowgreen;
+	float: left;
+}
+.cleft{
+	width: 150px;
+	min-height: inherit;
+	background: yellowgreen;
+	float: left;
+
+}
+.cright{
+	width: 640px;
+	min-height: inherit;
+	background: white;
+	float: left;
+	margin: 0px 0px 0px 10px;
+}
+.rtop{
+	width: 640px;
+	min-height: 370px;
+	background: yellowgreen;
+	float: left;
+	margin: 0px 0px 10px 0px;
+}
+.rfooter{
+	width: 640px;
+	min-height: 100px;
+	background: yellowgreen;
+	float: left;
+}
